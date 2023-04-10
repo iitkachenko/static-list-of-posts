@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn { 
+    @apply bg-brand-700 hover:bg-brand-600 text-white tracking-wider rounded-md py-3 px-6 mt-6;
+ }
